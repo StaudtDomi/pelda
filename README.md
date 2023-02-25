@@ -1,2 +1,2 @@
 # pelda
-pelda fájl
+pelda fájl amit készítettem
